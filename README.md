@@ -1,1 +1,1 @@
-# Test-Classification-using-GRU
+# Text-Classification-using-GRU
